@@ -1,0 +1,14 @@
+/Users/anatoliy/laba3/formatter_lib/build1/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/formatter_lib/CMakeFiles/formatter.dir
+/Users/anatoliy/laba3/formatter_lib/build1/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/formatter_lib/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/Users/anatoliy/laba3/formatter_lib/build1/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/solver_lib/CMakeFiles/solver.dir
+/Users/anatoliy/laba3/formatter_lib/build1/solver_lib/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/solver_lib/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/solver_application/CMakeFiles/solverexe.dir
+/Users/anatoliy/laba3/formatter_lib/build1/solver_application/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build1/solver_application/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+/Users/anatoliy/laba3/formatter_lib/build/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/formatter_lib/CMakeFiles/formatter.dir
+/Users/anatoliy/laba3/formatter_lib/build/formatter_lib/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/formatter_lib/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/formatter_ex_lib/CMakeFiles/formatter_ex.dir
+/Users/anatoliy/laba3/formatter_lib/build/formatter_ex_lib/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/formatter_ex_lib/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/solver_lib/CMakeFiles/solver.dir
+/Users/anatoliy/laba3/formatter_lib/build/solver_lib/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/solver_lib/CMakeFiles/rebuild_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/hello_world_application/CMakeFiles/hello_world.dir
+/Users/anatoliy/laba3/formatter_lib/build/hello_world_application/CMakeFiles/edit_cache.dir
+/Users/anatoliy/laba3/formatter_lib/build/hello_world_application/CMakeFiles/rebuild_cache.dir
