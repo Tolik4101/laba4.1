@@ -20,6 +20,6 @@ jobs:
       - name: opensolver
         run: |
           cd build/solver_application
-          ./solverexe 2 2 2
+          ./solverexe 1 2 1
           
           
