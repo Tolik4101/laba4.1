@@ -19,7 +19,7 @@ jobs:
           ./hello_world
       - name: opensolver
         run: |
-          cd build/solver_appplication
+          cd build/solver_application
           ./solverexe 
           2 2 2
           
